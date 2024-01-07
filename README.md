@@ -133,4 +133,4 @@ Licensed under the Apache License. See [LICENSE](LICENSE)
 ## <h3 align="center"> © IBM Corporation 2022. All rights reserved. <h3/>
 
 
-![Build Status](https://github.com/Negin-Shafinezhad/devops-capstone-project/.github/workflows/ci-build.yaml/badge.svg)
+![Build Status](https://github.com/Negin-Shafinezhad/devops-capstone-project/action/workflows/ci-build.yaml/badge.svg)
